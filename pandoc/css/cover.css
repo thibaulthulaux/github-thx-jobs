@@ -1,0 +1,117 @@
+:root { 
+    --color-background: #fff;
+    --color-background-primary: #fff;
+    --color-background-secondary: #ddd;
+    --color-text: #000;
+    --color-a: #118bee;
+    --color-h1: #000;
+
+    --font-family: Verdana, 'sans-serif';
+    --font-size: 9pt;
+    --font-size-small: 9pt;
+    --line-height: 2;
+
+    --line-size: 0.1em;
+    
+    --page-height: 29.7cm;
+    --page-width: 21cm;
+
+    --page-margin-top: 1.5cm;
+    --page-margin-side: 1cm;
+
+    --page-spacer: 1.25cm;
+}
+
+html { /* box fix */
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+
+/* Print */
+@media print {}
+
+/* Content */
+body {
+    font-family: var(--font-family);
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+    margin: auto;
+    padding: 0 var(--page-margin-side) 0 var(--page-margin-side);
+    width: var(--page-width);
+    text-align: left;
+}
+
+/* Layout */
+.flex-box { display: flex; }
+
+aside {
+    height: var(--page-height);
+    padding: var(--page-margin-top) 5mm 0 5mm;
+    flex: 0 0 30%;
+}
+
+main {
+    padding: var(--page-margin-top) 5mm 0 5mm;
+    flex: 0 0 70%;
+}
+
+/* Form */
+a {
+    font-weight: bold;
+    font-size: 0.85em;
+    text-decoration: none;
+    color: var(--color-a);
+}
+
+h1 { color: var(--color-h1); }
+
+aside {
+    font-size: 0.85em; 
+    background: var(--color-background-secondary);
+    border-right: var(--line-size) solid var(--color-text);
+}
+
+aside h1 {
+    font-size: 1.5em;
+    text-align: center;
+}
+
+aside p { padding-left: 2em; }
+
+body { background: var(--color-background); }
+
+main { background: var(--color-background-primary); }
+
+section { 
+    margin-bottom: var(--page-spacer);
+}
+
+.date {
+    text-align: right;
+}
+
+.object {
+    text-align: center;
+}
+
+.letter {
+    text-indent: 4em;
+    text-align: justify;
+}
+
+.signature {
+    text-align: right;
+    font-weight: bold;
+}
+
+
+/* DEBUG */
+
+/* body{ border: 1px solid red;}
+aside { border: 1px solid blue; }
+main { border: 1px solid green; }
+section { border: 1px solid magenta; }
+article { border: 1px solid yellow; } */
+
