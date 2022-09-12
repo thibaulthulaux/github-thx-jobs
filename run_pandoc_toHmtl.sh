@@ -2,15 +2,25 @@
 
 pandocToHtml () {
   local filename="${1##*/}"
+  echo $filename
   local filenamenoext="${filename%.*}"
+  echo $filenamenoext
   local author="Thibault HULAUX"
+  echo $author
   local lang="${folder#*-}"
+  echo $lang
   local title="${author} - ${filenamenoext}-${folder}"
+  echo $title
   local date="$(date "+%Y-%m-%d")"
+  echo $date
   local css="pandoc/css/${filenamenoext}.css"
+  echo $css
   local template="pandoc/templates/${filenamenoext}.html"
+  echo $template
   local source="jobs/${folder}/${filenamenoext}.md"
+  echo $source
   local output="${filenamenoext}-${folder}.html"
+  echo $output
 
   local params=(
 #    --verbose
