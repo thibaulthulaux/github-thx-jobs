@@ -41,12 +41,10 @@ A et B
 <article class="qualities">
 
 # Qualités
-- Bilingue
 - Adaptabilité
 - Autonomie
 - Réactivité
 - Communication
-- Diplomatie
 - Technicité
 
 </article>
@@ -71,6 +69,12 @@ A et B
 <section class="experience">
 
 # EXPERIENCE
+
+## CDA - Devops
+### ID formation (2022-2023)
+- Conception et développement d'applications 
+- 
+
 ## Manager Presales
 ### Dalim Software Gmbh (2018-2020)
 - Animation de salons et d’évènements commerciaux internationaux.

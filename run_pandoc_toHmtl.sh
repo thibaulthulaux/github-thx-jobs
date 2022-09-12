@@ -2,25 +2,25 @@
 
 pandocToHtml () {
   local filename="${1##*/}"
-  echo $filename
+  # echo "filename="$filename
   local filenamenoext="${filename%.*}"
-  echo $filenamenoext
+  # echo "filenamenoext="$filenamenoext
   local author="Thibault HULAUX"
-  echo $author
+  # echo "author="$author
   local lang="${folder#*-}"
-  echo $lang
+  # echo "lang="$lang
   local title="${author} - ${filenamenoext}-${folder}"
-  echo $title
+  # echo "title="$title
   local date="$(date "+%Y-%m-%d")"
-  echo $date
+  # echo "date="$date
   local css="pandoc/css/${filenamenoext}.css"
-  echo $css
+  # echo "css="$css
   local template="pandoc/templates/${filenamenoext}.html"
-  echo $template
+  # echo "template="$template
   local source="jobs/${folder}/${filenamenoext}.md"
-  echo $source
+  # echo "source="$source
   local output="${filenamenoext}-${folder}.html"
-  echo $output
+  # echo "output="$output
 
   local params=(
 #    --verbose
@@ -42,8 +42,11 @@ pandocToHtml () {
 main () {
   if [[ -n ${@} ]]; then
     local folder=${1}
+    # echo "folder="$folder
     if [[ -d jobs/${folder} ]]; then
-      for file in $(find jobs/${folder} -type f -name *.md); do 
+        # echo "jobs/${folder} exists"
+      for file in $(find jobs/${folder} -type f -name '*.md'); do 
+        # echo "file="$file
         pandocToHtml ${file}
       done
       echo "[End] ${folder} complete."

@@ -41,12 +41,10 @@ A et B
 <article class="qualities">
 
 # Qualités
-- Bilingue
 - Adaptabilité
 - Autonomie
 - Réactivité
 - Communication
-- Diplomatie
 - Technicité
 
 </article>
@@ -71,6 +69,10 @@ A et B
 <section class="experience">
 
 # EXPERIENCE
+
+## Concepteur developpeur d'application - Devops
+### ID formation (2022-2023)
+
 ## Manager Presales
 ### Dalim Software Gmbh (2018-2020)
 - Animation de salons et d’évènements commerciaux internationaux.

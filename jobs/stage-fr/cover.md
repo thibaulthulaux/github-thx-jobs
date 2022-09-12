@@ -15,27 +15,30 @@ FRANCE
 <main>
 <section class="date">
 
-Lingolsheim, le 8 Juin 2021
+Lingolsheim, le 12 Septembre 2022
 
 </section>
 <section class="object">
 
-**Candidature:** Chef de projet Support Informatique
+**Objet:** Recherche de stage - ingénieur devops
 
 </section>
 <section class="letter">
 
 Madame, Monsieur,
 
-Je me permets de vous contacter car votre offre d’emploi a retenu mon plus vif intérêt.
+Je me permets de prendre contact avec vous en vue d’obtenir un stage de fin de formation
+« Concepteur développeur d’application orienté Devops », du 14/11/2022 au 23/12/2022.
 
-En effet, la simple lecture du profil recherché suffit à mettre en exergue des correspondances évidentes.
+En effet, le plan de formation prévoit la mise en place d'un stage en entreprise durant les mois de novembre et décembre, avant les examens finaux en janvier 2023. Hors le fait que ce stage s’inscrive dans un protocole de formation, je souhaite naturellement pouvoir prouver mes compétences, et peut espérer en cas de succès significatif une forme de prolongation contractuelle.
 
-J’ai occupé avec succès des fonctions extrêmement similaires chez un éditeur de progiciel, basé en Allemagne, pendant les 4 dernières années. J’ai la certitude que mon expérience, mon éthique professionnelle ainsi que mon enthousiasme feront de moi une excellente addition à votre DSI.
+J’ai pu conduire de nombreux projets dans le domaine de l'édition de logiciels, dans un contexte international, avec des clients particulièrement exigeants (Ikea, Burda, QuadGraphics, Le conseil de l’Europe, l’Unesco…).
+La rédaction de spécifications fonctionnelles, le suivi de l’avancée du développement, le suivi des phases de tests faisait partie intégrante de mes tâches (kayako, jira, confluence).
+J’étais également l’un des principaux formateurs, et j’animais régulièrement des groupes de travail d’utilisateurs clés, d’intégrateurs et de développeurs, en français comme en anglais.
 
-J’ai pu conduire de nombreux projets en lien avec le développement de l’expérience utilisateur, dans un contexte international, avec des clients particulièrement exigeants (Ikea, Burda, QuadGraphics, Le conseil de l’Europe, l’Unesco…). La rédaction de spécifications fonctionnelles, le suivi de l’avancée du développement, le suivi des phases de tests faisait évidemment partie intégrante de mon tâches (kayako, jira, confluence). J’étais également l’un des principaux formateurs, et j’animais régulièrement des groupes de travail d’utilisateurs clés, d’intégrateurs et de développeurs, en français comme en anglais.
+Désireux de donner une nouvelle orientation à mon avenir professionnel, je souhaite exploiter mes appétances pour des domaines plus techniques. Passionné d'automatisation, je me suis tourné naturellement vers le developpement informatique, et les métier de devops/sre.
 
-Mes expériences professionnelles, mon parcours, ainsi que mes connaissances techniques semblent correspondre en tout point à vos besoins. De plus, mon adaptabilité et ma forte motivation sont pour vous l’assurance d’un investissement serein.
+Mes expériences précédentes ainsi que mes connaissances techniques semblent d'ors et déjà correspondre à vos besoins. De plus, bien qu'aujourd'hui en recherche de stage, mon antériorité professionnelle, mon adaptabilité et ma forte motivation sont pour vous l’assurance d’un investissement serein.
 
 Soucieux de pouvoir répondre à vos attentes, je me tiens à votre entière disposition, et vous adresse, dans l’attente de notre prochaine échange, ma plus vive considération.
 
