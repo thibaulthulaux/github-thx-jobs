@@ -70,10 +70,11 @@ A et B
 
 # EXPERIENCE
 
-## CDA - Devops
+## CDA - Devops (formation)
 ### ID formation (2022-2023)
-- Conception et développement d'applications 
-- 
+- Conception et développement d'applications
+- Full-stack (Java, SQL, HTML, CSS, JavaScript)
+- Devops (Docker, CI/CD, Gitlab)
 
 ## Manager Presales
 ### Dalim Software Gmbh (2018-2020)
@@ -120,6 +121,14 @@ A et B
 - **Trello** - Bon
 
 ## Développement
+### Langages
+- **Html/Css** - Avancé
+- **java** - Bon
+- **Javascript** - Notions
+- **Lua/Python** - Bon
+- **Php** - Notions
+- **Bash/Shell** - Avancé
+
 ### Base de données
 - **MySQL/SQL** - Bon
 - **Postgres** - Notions
@@ -127,14 +136,6 @@ A et B
 ### CMS
 - **Joomla** - Notions
 - **Wordpress** - Bon
-
-### Langages
-- **Html/Css** - Avancé
-- **java** - Notions
-- **Javascript** - Notions
-- **Lua/Python** - Bon
-- **Php** - Notions
-- **Bash/Shell** - Avancé
 
 
 <span class="columns-break">
@@ -159,7 +160,7 @@ A et B
 - **Microsoft Office** - Avancé
 
 ### IDE
-- **VSC** - Bon
+- **VSC** - Avancé
 - **VIM/tmux** - Avancé
 
 ### Progiciel
@@ -173,10 +174,10 @@ A et B
 - **Asset management** - Avancé
 - **Banque / Assurance** - Bon
 - **Communication** - Bon
+- **Edition de logiciel** - Avancé
 - **Imprimerie** - Avancé
 - **Marketing** - Bon
 - **Studio photo** - Avancé
-- **Edition de logiciel** - Avancé
 
 </section>
 <section class="education">
