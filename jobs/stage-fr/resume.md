@@ -72,9 +72,9 @@ A et B
 
 ## CDA - Devops (formation)
 ### ID formation (2022-2023)
-- Conception et développement d'applications
+- Conception et développement d'applications (Agile)
 - Full-stack (Java, SQL, HTML, CSS, JavaScript)
-- Devops (Docker, CI/CD, Gitlab)
+- Devops (Docker, CI/CD, Gitlab, Jenkins)
 
 ## Manager Presales
 ### Dalim Software Gmbh (2018-2020)

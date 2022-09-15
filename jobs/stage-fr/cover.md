@@ -32,13 +32,12 @@ Je me permets de prendre contact avec vous en vue d’obtenir un stage de fin de
 
 Le plan de formation prévoit la mise en place d'un stage en entreprise durant les mois de novembre et décembre, avant les examens finaux en janvier 2023. Hors le fait que ce stage s’inscrive dans un protocole de formation, je souhaite naturellement pouvoir prouver mes compétences, et peut espérer en cas de succès significatif une forme de prolongation contractuelle.
 
-J’ai pu conduire de nombreux projets dans le domaine de l'édition de logiciels, dans un contexte international, avec des clients particulièrement exigeants (Ikea, Burda, QuadGraphics, Le conseil de l’Europe, l’Unesco…).
-La rédaction de spécifications fonctionnelles, le suivi de l’avancée du développement, le suivi des phases de tests faisait partie intégrante de mes tâches (kayako, jira, confluence).
+J’ai pu conduire de nombreux projets dans le domaine de l'édition de logiciels, dans un contexte international, avec des clients particulièrement exigeants (Ikea, Burda, QuadGraphics, Le conseil de l’Europe, l’Unesco…), tant sur l'aspect technique que fonctionnel.
 J’étais également l’un des principaux formateurs, et j’animais régulièrement des groupes de travail d’utilisateurs clés, d’intégrateurs et de développeurs, en français comme en anglais.
 
 Désireux de donner une nouvelle orientation à mon avenir professionnel, je souhaite exploiter mes appétances pour des domaines plus techniques. Passionné d'automatisation, je me suis tourné naturellement vers le developpement informatique, et les métier de devops/sre.
 
-Bien qu'aujourd'hui en recherche de stage, mes connaissances techniques, mon adaptabilité et ma forte motivation sont pour vous l’assurance d’un investissement serein.
+Bien qu'aujourd'hui en recherche de stage, mes expériences professionelles, mes connaissances techniques, mon adaptabilité et ma forte motivation sont pour vous l’assurance d’un investissement serein.
 
 Soucieux de pouvoir répondre à vos attentes, je me tiens à votre entière disposition, et vous adresse, dans l’attente de notre prochaine échange, ma plus vive considération.
 
