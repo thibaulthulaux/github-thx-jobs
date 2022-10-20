@@ -71,43 +71,39 @@ A et B
 # EXPERIENCE
 
 ## CDA - Devops (formation)
-### ID formation (2022)
+### ID formation (2022-2023)
 - Conception et développement d'applications (Agile)
 - Full-stack (Java, SQL, HTML, CSS, JavaScript)
-- Devops (Docker, CI/CD, Gitlab, Ansible)
+- Devops (Docker, CI/CD, Gitlab, Jenkins)
 
-## Architect Solution Presales
+## Manager Presales
 ### Dalim Software Gmbh (2018-2020)
 - Animation de salons et d’évènements commerciaux internationaux.
 - Administration et configuration d’environnements de démo (VMWare).
 - Accompagnement à la vente (démos, présentations, support commercial).
 - Accompagnement technique (audits, configuration, scripting et customisation).
+
+## Chef de projet
+### Dalim Software Gmbh (2017-2018)
+- Gestion et suivi de projets méthode Agile.
+- Applications DALIM SOFTWARE, intégration, utilisation avancée.
+- Automatisation et digitalisation / DAM (workflow, procédures, metadata mapping, enrichissement).
+- Déploiement, installation, customisation, maintenance et dépannage d’environnements applicatifs.
 - Expertise, conseil et formation continue des collaborateurs, revendeurs, intégrateurs, administrateurs et utilisateurs.
 
-## Ingénieur Support Client
-### Dalim Software Gmbh (2017-2018)
+## Support client
+### Dalim Software Gmbh (2017)
 - Helpdesk & Hotline (anglais, français).
 - Assistance aux clients à distance / sur site. (Astreinte 24/7).
 - Gestion des demandes utilisateurs, rapports d’anomalies, suivi de résolution.
-- Développement et installation de customisations (Bash, Javascript).
-- Gestion et suivi de projets méthode Agile.
-- Automatisation et digitalisation / DAM (workflow, procédures, metadata mapping, enrichissement).
-- Déploiement, installation, customisation, maintenance et dépannage d’environnements applicatifs.
-
-## Technico-Commercial BtoB
-### RTSI (2007-2008)
-- Gestion de portefeuille client
-- Prospection, vente, gestion de projets (IT, hardware, grossiste)
-- Network (Configuration, routing, firewall, VPN)
-- Assemblage et deploiement de serveurs, stations, video surveillance, backup et solutions de sécurité
-- Support technique (audits, configuration et installation)
-
+- Développement et installation de customisations.
 
 </section>
 <section class="previously">
 
 # PRECEDEMMENT...
 - **2009 / 2016** - Ingénieur commercial (multiples contrats).
+- **2007 / 2008** - Technico-commercial BtoB (IT, hardware, grossiste).
 - **2002 / 2007** - Police Nationale.
 
 </section>
